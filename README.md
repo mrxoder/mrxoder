@@ -9,9 +9,8 @@
     <img src="https://github.com/TheTorProject/tor-media/blob/master/Onion%20Icon/Onion_Purple_Background_Icon.svg" title="Tor" width=40 heigth=40/>
     <img src="https://github.com/mrxoder/icons/blob/main/index.png" title="burpsuite" width=40 heigth=40/>
     <img src="https://github.com/mrxoder/icons/blob/main/htbicon.png" title="htb" width=40 heigth=40/>
-    <img src="https://github.com/mrxoder/icons/blob/main/osint.png" title="osint" width=40 heigth=40/>
+    <img src="https://github.com/mrxoder/icons/blob/main/CTF.png" title="ctf" width=40 heigth=40/>
     <img src="https://github.com/mrxoder/icons/blob/main/defcon.png" title="defcon" width=40 heigth=40/>
-    <img src="https://github.com/mrxoder/icons/blob/main/BlackArchLinux.png" title="BlackArch" width=40 heigth=40/>
     <img src="https://github.com/mrxoder/icons/blob/main/nmap.png" title="nmap" width=40 heigth=40/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" width=40 heigth=40/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" width=40 heigth=40/>
