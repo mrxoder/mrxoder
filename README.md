@@ -28,5 +28,4 @@ if u want to contact me, here's my [facebook-profile](https://www.facebook.com/p
  ![htb](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
  ![h1](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
  
-  <div> <img src="https://github.com/mrxoder/icons/blob/main/CTF.png" title="ctf" width=40 heigth=40/> </div>
  
