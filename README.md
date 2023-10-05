@@ -6,7 +6,7 @@
 - I'm interested in Bug-Bounty hunting...
 if u want to contact me, here's my [facebook-profile](https://www.facebook.com/profile.php?lst=100084748959056%3A100084748959056%3A1662648222)
 
-[Portfolio](https://profile.byteforge.site/)
+- [Portfolio](https://profile.byteforge.site/)
 
  
  [![Xoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical)](https://github.com/mrxoder)
