@@ -26,7 +26,8 @@ if u want to contact me, here's my [facebook-profile](https://www.facebook.com/p
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![CI3](https://img.shields.io/badge/CI3-CodeIgniter3-blueviolet?style=for-the-badge&logo=appveyor)
- ![CI3](https://img.shields.io/badge/AXIOS-Axios%20JS-blue?style=for-the-badge&logo=appveyor)
+ ![Axios](https://img.shields.io/badge/AXIOS-Axios%20JS-blue?style=for-the-badge&logo=appveyor)
+ ![Angular](https://img.shields.io/badge/angular-8A2BE2)
  
  ![htb](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
  ![h1](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
