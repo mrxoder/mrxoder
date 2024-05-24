@@ -15,6 +15,7 @@
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
  ![CI3](https://img.shields.io/badge/CI3-CodeIgniter3-blueviolet?style=for-the-badge&logo=appveyor)
+ ![TS](https://img.shields.io/badge/TS-Typescript-blueviolet?style=for-the-badge&logo=appveyor)
  ![Angular](https://img.shields.io/badge/Angular-494649.svg?style=for-the-badge&logo=Angular&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
