@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mrxoder/static/css/main.fb066efd.css",
-    "main.js": "/mrxoder/static/js/main.affa7e9b.js",
+    "main.css": "/mrxoder/static/css/main.fde58475.css",
+    "main.js": "/mrxoder/static/js/main.6b4c52b8.js",
     "static/js/453.1407b060.chunk.js": "/mrxoder/static/js/453.1407b060.chunk.js",
     "index.html": "/mrxoder/index.html",
-    "main.fb066efd.css.map": "/mrxoder/static/css/main.fb066efd.css.map",
-    "main.affa7e9b.js.map": "/mrxoder/static/js/main.affa7e9b.js.map",
+    "main.fde58475.css.map": "/mrxoder/static/css/main.fde58475.css.map",
+    "main.6b4c52b8.js.map": "/mrxoder/static/js/main.6b4c52b8.js.map",
     "453.1407b060.chunk.js.map": "/mrxoder/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb066efd.css",
-    "static/js/main.affa7e9b.js"
+    "static/css/main.fde58475.css",
+    "static/js/main.6b4c52b8.js"
   ]
 }
