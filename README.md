@@ -2,7 +2,7 @@
 - I’m Mr Xoder
 - I'm interested in Web development and Bug-Bounty hunting
   - here's my [facebook-profile](https://www.facebook.com/profile.php?lst=100084748959056%3A100084748959056%3A1662648222) if you want some service  
-  - [Portfolio](https://profile.byteforge.site/)
+  - My [Portfolio](https://mrxoder.github.io/mrxoder/)
 
  
  [![Xoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical)](https://github.com/mrxoder)
