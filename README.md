@@ -18,7 +18,7 @@
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![Tailwind](https://img.shields.io/badge/tailwind-%230769AD.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
- ![TS](https://img.shields.io/badge/TS-Typescript-blueviolet?style=for-the-badge&logo=appveyor)
+ ![TS](https://img.shields.io/badge/Typescript-blueviolet?style=for-the-badge&logo=Typescript&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-494649.svg?style=for-the-badge&logo=Angular&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
