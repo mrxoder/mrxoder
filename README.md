@@ -39,5 +39,6 @@
   
  ![htb](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
  ![h1](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
+
  
  "A hacker's true victory lies not only in their skills but also in their ability to stay silent about it"
