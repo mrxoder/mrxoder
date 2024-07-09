@@ -1,6 +1,6 @@
 ### 👋 Hello!
 - I’m Xoder
-- I'm interested in Web development and Bug-Bounty hunting
+- I'm interested in Programming and Bug-Bounty hunting
   - here's my [facebook-profile](https://www.facebook.com/profile.php?lst=100084748959056%3A100084748959056%3A1662648222) if you want some service  
   - My [Portfolio](https://mrxoder.github.io/mrxoder/)
 
