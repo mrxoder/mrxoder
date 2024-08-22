@@ -25,8 +25,9 @@
  ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=white)
  
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
- ![CI3](https://img.shields.io/badge/CI3-CodeIgniter3-blueviolet?style=for-the-badge&logo=appveyor)
+ ![Symfony](https://img.shields.io/badge/symfony-%23777BB4.svg?style=for-the-badge&logo=symfony&logoColor=white)
+ ![CI](https://img.shields.io/badge/CI-CodeIgniter-blueviolet?style=for-the-badge&logo=appveyor)
+![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
