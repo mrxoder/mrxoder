@@ -54,10 +54,22 @@
             "text": "J'ai commencé à utiliser Bootstrap en 2023 pour construire des applications web réactives."
         },
         {
+            "name": "CodeIgniter 3",
+            "img": "ci3.png",
+            "date": "2023",
+            "text": "J'ai commencé à apprendre CodeIgniter 3 pour apprendre le structure MVC avec PHP."
+        },
+        {
             "name": "Angular",
             "img": "angular.png",
             "date": "depuis octobre 2023",
             "text": "J'ai commencé à apprendre Angular en octobre 2023 pour construire des applications monopage robustes et efficaces."
+        },
+        {
+            "name": "Symfony",
+            "img": "symfony.png",
+            "date": "2024",
+            "text": "J'ai commencé à apprendre Symfony pour construire des backends rapides."
         },
         {
             "name": "React avec TypeScript",
@@ -70,11 +82,5 @@
             "img": "tailwindcss.png",
             "date": "avril 2024",
             "text": "J'ai commencé à utiliser TailwindCSS en avril 2024 pour le stylage et le développement rapide de l'interface utilisateur."
-        },
-        {
-            "name": "Installation de Docker, nginx et serveur Linux",
-            "img": "docker.png",
-            "date": "avril 2024",
-            "text": "J'ai installé Docker pour le déploiement d'applications conteneurisées, configuré nginx pour le déploiement de serveurs web et le proxy inverse, et mis en place un serveur Linux à domicile. J'ai utilisé SSH, SFTP et d'autres outils pour gérer et déployer des applications."
         }
 ]
