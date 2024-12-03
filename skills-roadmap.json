@@ -82,5 +82,11 @@
             "img": "tailwindcss.png",
             "date": "avril 2024",
             "text": "J'ai commencé à utiliser TailwindCSS en avril 2024 pour le stylage et le développement rapide de l'interface utilisateur."
+        },
+        {
+            "name": "Android Kotlin",
+            "img": "kotlin.png",
+            "date": "septembre 2024",
+            "text": "J'ai commencé à utiliser Kotlin en Septembre 2024 pour le développement des applications Android."
         }
 ]
