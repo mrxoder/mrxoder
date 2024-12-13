@@ -42,10 +42,5 @@
  ![h1](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
  
  <p algin="center">
-   
    **"A hacker's true victory lies not only in their skills but also in their ability to stay silent about it"**
-</p>
-<p algin="center">
-   
-  **"Persistence is the key to hacking. It's not about being the smartest or most talented, persistence is what separates the winners from the losers."**
 </p>
