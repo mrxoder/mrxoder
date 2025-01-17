@@ -1,7 +1,7 @@
 ### 👋 Hello!
 - I’m Xoder
 - I'm interested in Programming and Bug-Bounty hunting
-  - here's my [facebook](https://www.facebook.com/profile.php?lst=100084748959056%3A100084748959056%3A1662648222) if you want some service  
+  - here's my Facebook profile: [@x0der666](https://web.facebook.com/x0der666) if you want some service  
   - My [Portfolio](https://ramanantoaninatsilavina.webforge.mg/)
     
      [![Xoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical)](https://github.com/mrxoder)
