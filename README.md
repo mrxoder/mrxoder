@@ -3,7 +3,9 @@
 - I'm interested in Programming and Bug-Bounty hunting
   - here's my Facebook profile: [@x0der666](https://web.facebook.com/x0der666) if you want some service  
   - My [Portfolio](https://ramanantoaninatsilavina.webforge.mg/)
-    
+
+
+ <p algin="center">
      [![Xoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical)](https://github.com/mrxoder)
 
 
@@ -41,6 +43,5 @@
  ![htb](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
  ![h1](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
  
- <p algin="center">
-   **"A hacker's true victory lies not only in their skills but also in their ability to stay silent about it"**
+ 
 </p>
