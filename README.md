@@ -16,6 +16,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+  </span>
+</p>
 
 ---
 
