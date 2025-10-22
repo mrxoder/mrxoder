@@ -7,18 +7,6 @@
 - **Facebook**: [@x0der666](https://web.facebook.com/x0der666)  
 - **Learning Roadmap**: [Check My Progress](https://ramanantoaninatsilavina.webforge.mg/)  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <a href="https://github.com/mrxoder">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrxoder&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Skills & Tools  
 
 ### 🌐 Web Development  
@@ -59,3 +47,9 @@
 
 ## 🚀 Let's Connect!  
 📩 **Open to collaborations on exciting projects & bug bounty hunting.**
+
+<div align="center">
+   <a href="https://coindrop.to/xoder" target="_blank">
+    <img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+   </a>
+</div>
