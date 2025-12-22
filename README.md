@@ -4,8 +4,7 @@
 💡 Exploring **Web Development, Cybersecurity, and Open Source**  
 
 🔗 **Connect with me:**  
-- **Facebook**: [@x0der666](https://web.facebook.com/x0der666)  
-- **Learning Roadmap**: [Check My Progress](https://ramanantoaninatsilavina.webforge.mg/)  
+- **Facebook**: [here](https://web.facebook.com/x0der666)  
 
 ## 🛠️ Skills & Tools  
 
