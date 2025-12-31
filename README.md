@@ -48,7 +48,7 @@
 📩 **Open to collaborations on exciting projects & bug bounty hunting.**
 
 <div align="center">
-   <a href="https://coindrop.to/xoder" target="_blank">
+   <a href="https://mrxoder.github.io/support/" target="_blank">
     <img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
    </a>
 </div>
