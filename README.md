@@ -23,17 +23,18 @@
 
 ### 🔐 Cybersecurity & Ethical Hacking  
 <p align="center">
+  <img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tor-%237D4698.svg?style=for-the-badge&logo=tor-browser&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-%239FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" />
-  <img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" />
+  
 </p>
 
 ### 🖥️ Software Development  
 <p align="center">
   <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus" />
 </p>
 
 ### 💾 Databases  
