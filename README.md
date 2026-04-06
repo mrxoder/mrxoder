@@ -19,7 +19,7 @@ A lightweight, self-hostable booking platform designed for businesses that need 
 
 ### 🤖 [VelocityTrading](https://velocity.webforge.mg/)
 > An AI-powered decision engine for trading analysis
-Velocity lets traders bring their own AI API key (OpenAI, Gemini, Groq, or PuterJS) and write custom strategies to analyze real price data from Deriv. The engine processes the data through the user's chosen AI model and strategy logic to generate trading decisions — all buy/sell signals are simulation only, no real trades are executed.
+Velocity lets traders bring their own AI API key (Anthropic, OpenAI, Gemini, Groq, or PuterJS) and write custom strategies to analyze real price data from Deriv. The engine processes the data through the user's chosen AI model and strategy logic to generate trading decisions — all buy/sell signals are simulation only, no real trades are executed.
 - 🔧 **Type:** AI Decision Engine / Trading Analyzer
 - 🤖 **AI Providers:** OpenAI · Gemini · Groq · PuterJS
 - 📊 **Data Source:** Deriv (live price data)
