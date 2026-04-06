@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Xoder!  
 
-🚀 Passionate about **Programming** and **Bug Bounty Hunting**  
-💡 Exploring **Web Development, Cybersecurity, and Open Source**  
+🚀 Passionate about **Programming** and **Bug Bounty Hunting**    
 
 🔗 **Connect with me:**  
-- **Website** : [here](https://mrxoder.github.io/)
-- **Facebook**: [here](https://web.facebook.com/x0der666)  
+- **Website** : [mrxoder.github.io](https://mrxoder.github.io/)
+- **Facebook**: [facebook](https://web.facebook.com/x0der666)  
 
 ## 🛠️ Skills & Tools  
 
