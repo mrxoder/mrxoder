@@ -7,43 +7,24 @@
 - **Facebook**: [Facebook](https://web.facebook.com/x0der666)
 - **Support** : [Support Xoder](https://mrxoder.github.io/support)
 
-## 🛠️ Skills & Tools  
 
-### 🌐 Web Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
+## 📌 Featured Projects
+### 🗓️ [Bokk](https://bokk-bookingapp.vercel.app/)
+> A self-hosted booking app for appointments & rentals
 
-### 🔐 Cybersecurity & Ethical Hacking  
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-%239FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" />
-  
-</p>
+A lightweight, self-hostable booking platform designed for businesses that need full control over their scheduling. Built for appointments and rental management with a clean, user-friendly interface.
+- 🔧 **Type:** Web App
+- 🌐 **Live:** [bokk-bookingapp.vercel.app](https://bokk-bookingapp.vercel.app/)
+---
 
-### 🖥️ Software Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus" />
-</p>
-
-### 💾 Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
+### 🤖 [VelocityTrading](https://velocity.webforge.mg/)
+> An AI-powered decision engine for trading analysis
+Velocity lets traders bring their own AI API key (OpenAI, Gemini, Groq, or PuterJS) and write custom strategies to analyze real price data from Deriv. The engine processes the data through the user's chosen AI model and strategy logic to generate trading decisions — all buy/sell signals are simulation only, no real trades are executed.
+- 🔧 **Type:** AI Decision Engine / Trading Analyzer
+- 🤖 **AI Providers:** OpenAI · Gemini · Groq · PuterJS
+- 📊 **Data Source:** Deriv (live price data)
+- ⚠️ **Note:** All buy/sell signals are demo only — no real trading
+- 🌐 **Live:** [velocity.webforge.mg](https://velocity.webforge.mg/)
 ---
 
 ## 🚀 Let's Connect!  
