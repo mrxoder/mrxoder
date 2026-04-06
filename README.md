@@ -23,7 +23,6 @@ Velocity lets traders bring their own AI API key (OpenAI, Gemini, Groq, or Puter
 - 🔧 **Type:** AI Decision Engine / Trading Analyzer
 - 🤖 **AI Providers:** OpenAI · Gemini · Groq · PuterJS
 - 📊 **Data Source:** Deriv (live price data)
-- ⚠️ **Note:** All buy/sell signals are demo only — no real trading
 - 🌐 **Live:** [velocity.webforge.mg](https://velocity.webforge.mg/)
 ---
 
