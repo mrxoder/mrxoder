@@ -1,12 +1,13 @@
 # 👋 Hello, I'm Xoder!  
 
-🚀 Passionate about **Programming** and **Bug Bounty Hunting**    
+I like building stuff, finding app vulnerabilities, and solving physics mysteries    
 
 🔗 **Connect with me:**  
 - **Website** : [mrxoder.github.io](https://mrxoder.github.io/)
 - **Facebook**: [Facebook](https://web.facebook.com/x0der666)
 - **Support** : [Support Xoder](https://mrxoder.github.io/support)
 
+*"The universe is full of beautiful mysteries, just waiting for you to solve them."*
 
 ## 📌 Featured Projects
 ### 🗓️ [Bokk](https://bokk-bookingapp.vercel.app/)
