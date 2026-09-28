@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Xoder!  
+# 👋 Hello!  
 
 I like building stuff, finding app vulnerabilities, and solving physics mysteries    
 
